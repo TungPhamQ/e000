@@ -114,7 +114,7 @@ export default {
   color: #ffffff;
   background-color: #617d98;
 }
-/* button {
+button {
   position: absolute;
-} */
+}
 </style>
